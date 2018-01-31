@@ -100,9 +100,4 @@ writeOGR(GBGrid5km, dsn = 'M:/Savsnet_cat_dog_population',
 
 It's very easy to make link to external files Just [click the following link to see how !]( https://datanywhere.liv.ac.uk/?linkid=KZi4zr6VWWXG1EL8SwljnbUDrAz2tqxO3IDODS6ncAGbVD1e5WaElg)
 
-
-```r
-    writeOGR(GBGrid5km, dsn = 'M:/Savsnet_cat_dog_population', 
-         layer = 'Savsnet_cat_dog_population_2017', 
-         driver = "ESRI Shapefile")
-```
+![Distribution and number of cats and dogs of the SAVSNET network](https://github.com/arsevska/savsnet-population/blob/master/cat_dog_2017.png?raw=true)
