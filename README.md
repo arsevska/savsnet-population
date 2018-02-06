@@ -1,7 +1,9 @@
 # savsnet-population
 
 Representation of the Small Animal Veterinary Surveillance Network (SAVSNET) cat and dog population in Great Britain as of 05/06/2017. 
-SAVSNET is a project lead by the University of Liverpool, School of veterinary medicine. More information can be found here: https://www.liverpool.ac.uk/savsnet/about/
+
+SAVSNET is a project lead by the University of Liverpool, School of veterinary medicine. More information can be found here: https://www.liverpool.ac.uk/savsnet/about/.
+
 For the full dataset (csv, sahpefile or raster), please contact: a.d.radford@liverpool.ac.uk
 
 ## General description of the data
