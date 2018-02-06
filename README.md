@@ -7,8 +7,8 @@ SAVSNET is a project lead by the University of Liverpool, School of veterinary m
 For the full dataset (csv, sahpefile or raster), please contact: a.d.radford@liverpool.ac.uk
 
 ### General description of the data
-Data is projected according to the EPSG of Great Britain "+init=epsg:27700"
-Data is aligned according to the 5km2 gridded cells of the official OSGB 5km2 of Great Britain (in total 10401 cells)
+Data is projected according to the EPSG of Great Britain "+init=epsg:27700".
+Data is aligned according to the 5km2 gridded cells of the official OSGB 5km2 of Great Britain (in total 10401 cells).
 
 #### Number of cats
 #10401 cells and 6507 NA values = 6507/10401 = 62.56% coverage
