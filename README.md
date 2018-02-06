@@ -9,23 +9,25 @@ Data is projected according to the EPSG of Great Britain "+init=epsg:27700"
 Data is aligned according to the 5km2 gridded cells of the official OSGB 5km2 of Great Britain (in total 10401 cells)
 
 ### Number of cats
-```r
-10401 cells and 6507 NA values = 6507/10401 = 62.56% coverage
+#10401 cells and 6507 NA values = 6507/10401 = 62.56% coverage
 
-Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+#Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
 
-1.0     5.0    21.0   168.1    94.0  7495.0    6507 
-;
-```
+#1.0     5.0    21.0   168.1    94.0  7495.0    6507 
+
 
 ### Number of dogs
 #10401 cells and 5058 NA values = 5058/10401 = 48.62% coverage
+
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+
 #1.0     6.0    29.0   295.2   165.0 17210.0    5058 
 
 ### Sum cats and dogs
 #10401 cells and 6611 NA values = 6611/10401 = 63.56% coverage
+
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+
 #2.0    29.0   104.0   586.1   407.0 24700.0    6611 
 
 
