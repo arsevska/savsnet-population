@@ -15,14 +15,14 @@ Data is aligned according to the 5km2 gridded cells of the official OSGB 5km2 of
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
 #1.0     5.0    21.0   168.1    94.0  7495.0    6507 
 
-![Distribution and number of cats of the SAVSNET network](https://github.com/arsevska/savsnet-population/blob/master/cat_dog_2017.png?raw=true)
+![Distribution and number of cats of the SAVSNET network](https://github.com/arsevska/savsnet-population/blob/master/cats_savsnet_number.png?raw=true)
 
 #### Number of dogs
 #10401 cells and 5058 NA values = 5058/10401 = 48.62% coverage
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
 #1.0     6.0    29.0   295.2   165.0 17210.0    5058 
 
-![Distribution and number of dogs of the SAVSNET network](https://github.com/arsevska/savsnet-population/blob/master/cat_dog_2017.png?raw=true)
+![Distribution and number of dogs of the SAVSNET network](https://github.com/arsevska/savsnet-population/blob/master/dogs_savsnet_number.png?raw=true)
 
 #### Sum of cats and dogs
 
@@ -30,4 +30,4 @@ Data is aligned according to the 5km2 gridded cells of the official OSGB 5km2 of
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
 #2.0    29.0   104.0   586.1   407.0 24700.0    6611 
 
-![Distribution and number of cats and dogs together of the SAVSNET network](https://github.com/arsevska/savsnet-population/blob/master/cat_dog_2017.png?raw=true)
+![Distribution and number of cats and dogs together of the SAVSNET network](https://github.com/arsevska/savsnet-population/blob/master/cats_dogs_savsnet_number.png?raw=true)
