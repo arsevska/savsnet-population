@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Representation of the Small Animal Veterinary Surveillance Network (SAVSNET) cat and dog population in Great Britain as of 05/06/2017.
 
 SAVSNET is a project lead by the University of Liverpool, School of veterinary medicine. More information can be found here: https://www.liverpool.ac.uk/savsnet/about/.
@@ -46,6 +47,23 @@ Data is aligned according to the 5km2 gridded cells of the official OSGB 5km2 of
 #### Number of cats
 #10401 cells and 6507 NA values = 6507/10401 = 62.56% coverage
 
+=======
+# savsnet-population
+
+Representation of the Small Animal Veterinary Surveillance Network (SAVSNET) cat and dog population in Great Britain as of 05/06/2017. 
+
+SAVSNET is a project lead by the University of Liverpool, School of veterinary medicine. More information can be found here: https://www.liverpool.ac.uk/savsnet/about/.
+
+For the full dataset (csv, sahpefile or raster), please contact: a.d.radford@liverpool.ac.uk
+
+### General description of the data
+Data is projected according to the EPSG of Great Britain "+init=epsg:27700".
+Data is aligned according to the 5km2 gridded cells of the official OSGB 5km2 of Great Britain (in total 10401 cells).
+
+#### Number of cats
+#10401 cells and 6507 NA values = 6507/10401 = 62.56% coverage
+
+>>>>>>> a87db8d31b2d276a0718e4a330fc5645f2d1be4a
 #Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
 
 #1.0     5.0    21.0   168.1    94.0  7495.0    6507 
@@ -68,4 +86,7 @@ Data is aligned according to the 5km2 gridded cells of the official OSGB 5km2 of
 
 ![Distribution and number of cats and dogs together of the SAVSNET network](https://github.com/arsevska/savsnet-population/blob/master/cat_dog_2017.png?raw=true)
 
+<<<<<<< HEAD
 >>>>>>> 3734371a1998af84dc31059374dc9f33edf6e4cd
+=======
+>>>>>>> a87db8d31b2d276a0718e4a330fc5645f2d1be4a
