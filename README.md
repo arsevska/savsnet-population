@@ -4,7 +4,7 @@ Representation of the Small Animal Veterinary Surveillance Network (SAVSNET) cat
 
 SAVSNET is a project lead by the University of Liverpool, School of veterinary medicine. More information can be found here: https://www.liverpool.ac.uk/savsnet/about/.
 
-For the full dataset (csv, sahpefile or raster), please contact: a.d.radford@liverpool.ac.uk
+For the full dataset (csv, sahpefile or raster), please contact: savsnet@liverpool.ac.uk
 
 ### General description of the data
 Data is projected according to the EPSG of Great Britain "+init=epsg:27700".
