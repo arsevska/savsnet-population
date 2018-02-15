@@ -1,4 +1,4 @@
-# savsnet-population
+# SAVSNET population in Great Britain
 
 Representation of the Small Animal Veterinary Surveillance Network (SAVSNET) cat and dog population in Great Britain as of 05/06/2017. 
 
